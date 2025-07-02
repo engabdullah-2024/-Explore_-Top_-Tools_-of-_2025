@@ -1,5 +1,5 @@
 // create modern app routes with Home route
-import React from 'react';
+
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home.js';
 
